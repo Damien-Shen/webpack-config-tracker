@@ -1,0 +1,36 @@
+{
+  "name": "webpack-config-tracker",
+  "version": "1.0.2",
+  "description": "track webpack config for using in server learn from webpack-bundle-tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damien-Shen/webpack-config-tracker.git"
+  },
+  "keywords": [
+    "webpack-config-tracker"
+  ],
+  "author": "Damien Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Damien-Shen/webpack-config-tracker/issues"
+  },
+  "homepage": "https://github.com/Damien-Shen/webpack-config-tracker#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7"
+  }
+}
